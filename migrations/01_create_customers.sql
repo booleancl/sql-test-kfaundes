@@ -4,8 +4,8 @@
 DROP TABLE IF EXISTS customers;
 
 CREATE TABLE customers(
-  -- completar
-  -- completar
+  id INTEGER NOT NULL,
+  name VARCHAR(40),
   created_at TIMESTAMP,
   updated_at TIMESTAMP,
 
