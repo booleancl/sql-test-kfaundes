@@ -37,7 +37,7 @@ Respuesta: Deluxe
 
 > 4. Cuál es el tamaño de pizza más vendido?
 
-Respuesta:
+Respuesta: familiar
 
 > 5. ¿Cuál es el cliente con la compra más grande?
 

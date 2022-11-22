@@ -7,3 +7,15 @@ C:/Users/kfaun/intro_dev/sql-test-kfaundes/migrations/05_create_prices.sql
 C:/Users/kfaun/intro_dev/sql-test-kfaundes/migrations/06_create_orders.sql
 C:/Users/kfaun/intro_dev/sql-test-kfaundes/migrations/07_create_order_details.sql
 C:/Users/kfaun/intro_dev/sql-test-kfaundes/migrations/08_seed_data.sql
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/queryes/01_more_expensive_pizza.sql
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/queryes/02_max_quantity.sql
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/queryes/03_max_income.sql
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/queryes/04_most_sold_size.sql
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/data/addresses.csv
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/data/customers.csv
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/data/orders_details.csv
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/data/orders.csv
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/data/pizzas.csv
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/data/prices.csv
+C:/Users/kfaun/intro_dev/sql-test-kfaundes/data/sizes.csv
+
